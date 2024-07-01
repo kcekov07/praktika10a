@@ -1,0 +1,256 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffe6;
+
+}
+
+header {
+    background-color: #dcc86f;
+    color: #ffffe6;
+    text-align: center;
+    padding: 1em;
+	box-shadow:0 0 20px rgba(0, 0, 0, 0.637);
+	
+	
+	text-shadow:2px 2px 2px rgba(0, 0, 0, 0.637);
+}
+section {
+    padding: 2em;
+}
+
+footer {
+    background-color:#dcc86f;
+    color: #ffffe6;
+    text-align: center;
+    padding: 1em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+	height: 45px;
+	box-shadow:0 0 20px rgba(0, 0, 0, 0.637);
+}
+.horizontal{
+    display: flex;
+    justify-content: center;
+    background-color: #B7950B;
+    padding: 0.5em;
+	width:  100%;
+	height: 45px;
+	box-shadow:0 0 20px rgba(0, 0, 0, 0.637);
+	
+	
+}
+.horizontal ul
+{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	
+}
+.horizontal li
+{
+	float: left;
+	padding-top: 10px;
+
+}
+.horizontal a {
+    color: white;
+    text-decoration: none;
+    padding: 1em;
+    margin: 0 1em;
+    transition: background-color 0.3s;
+}
+
+.horizontal a:hover {
+    color:black;
+	color: #ffffe6;
+	text-shadow:2px 2px 2px rgba(0, 0, 0, 0.637);
+	
+}
+.btn:hover, .btn:focus, .btn:ActiveBorder
+{
+	box-shadow:0 0 20px rgba(0, 0, 0, 0.637);
+	-webkit-transform: scale (1.1);
+	transform:scale(1.1);
+	text-decoration:inline-block;
+	color: #ffffe6;
+	text-shadow:2px 2px 2px rgba(0, 0, 0, 0.637);
+}
+#pyramids
+{
+	text-align:justify;
+    float:left;
+    font-family:KladezC;
+	font-weight:bold;
+	padding-right:20px;
+   	font-size(h1): 30px;
+	font-size: 18px;
+	color: #B7950B;
+
+}
+#TadjMahal
+{
+	text-align:justify;
+    float:left;
+    font-family:KladezC;
+	font-weight:bold;
+	padding-right:20px;
+   	font-size(h1): 30px;
+	font-size: 18px;
+	color: #B7950B;
+
+}
+#TadjMahal
+{
+	text-align:justify;
+    float:left;
+    font-family:KladezC;
+	font-weight:bold;
+	padding-right:20px;
+   	font-size(h1): 30px;
+	font-size: 18px;
+	color: #B7950B;
+
+}
+#Velikatastena
+{
+	text-align:justify;
+    float:left;
+    font-family:KladezC;
+	font-weight:bold;
+	padding-right:20px;
+   	font-size(h1): 30px;
+	font-size: 18px;
+	color: #B7950B;
+
+}
+#Colloseum
+{
+	text-align:justify;
+    float:left;
+    font-family:KladezC;
+	font-weight:bold;
+	padding-right:20px;
+   	font-size(h1): 30px;
+	font-size: 18px;
+	color: #B7950B;
+}
+#kolosa
+{
+	text-align:justify;
+    float:left;
+    font-family:KladezC;
+	font-weight:bold;
+	padding-right:20px;
+   	font-size(h1): 30px;
+	font-size: 18px;
+	color: #B7950B;
+}
+#gradinite
+{
+text-align:justify;
+    float:left;
+    font-family:KladezC;
+	font-weight:bold;
+	padding-right:20px;
+   	font-size(h1): 30px;
+	font-size: 18px;
+	color: #B7950B;
+}
+#statuq
+{
+text-align:justify;
+    float:left;
+    font-family:KladezC;
+	font-weight:bold;
+	padding-right:20px;
+   	font-size(h1): 30px;
+	font-size: 18px;
+	color: #B7950B;
+}
+#mavzolei
+{
+text-align:justify;
+    float:left;
+    font-family:KladezC;
+	font-weight:bold;
+	padding-right:20px;
+   	font-size(h1): 30px;
+	font-size: 18px;
+	color: #B7950B;
+}
+#Artemida
+{
+text-align:justify;
+    float:left;
+    font-family:KladezC;
+	font-weight:bold;
+	padding-right:20px;
+   	font-size(h1): 30px;
+	font-size: 18px;
+	color: #B7950B;
+}
+#far
+{
+text-align:justify;
+    float:left;
+    font-family:KladezC;
+	font-weight:bold;
+	padding-right:20px;
+   	font-size(h1): 30px;
+	font-size: 18px;
+	color: #B7950B;
+}
+#Chichen
+{
+text-align:justify;
+    float:left;
+    font-family:KladezC;
+	font-weight:bold;
+	padding-right:20px;
+   	font-size(h1): 30px;
+	font-size: 18px;
+	color: #B7950B;
+}
+#Machu
+{
+text-align:justify;
+    float:left;
+    font-family:KladezC;
+	font-weight:bold;
+	padding-right:20px;
+   	font-size(h1): 30px;
+	font-size: 18px;
+	color: #B7950B;
+}
+#rio
+{
+text-align:justify;
+    float:left;
+    font-family:KladezC;
+	font-weight:bold;
+	padding-right:20px;
+   	font-size(h1): 30px;
+	font-size: 18px;
+	color: #B7950B;
+}
+#petra
+{
+text-align:justify;
+    float:left;
+    font-family:KladezC;
+	font-weight:bold;
+	padding-right:20px;
+   	font-size(h1): 30px;
+	font-size: 18px;
+	color: #B7950B;
+}
+
+
+
+
+
+	
+
